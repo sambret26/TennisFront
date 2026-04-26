@@ -5,7 +5,7 @@ let URL;
 if (ENV === 'development') {
     URL = 'http://localhost:5000';
 } else {
-    URL = 'https://web-production-1fc3.up.railway.app';
+    URL = 'https://web-production-94a5ac.up.railway.app';
 }
 
 const API_URL = URL;
